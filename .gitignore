@@ -1,0 +1,30 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore build directories
+/bin/
+/out/
+/target/
+
+# Ignore OS-specific files
+Thumbs.db
