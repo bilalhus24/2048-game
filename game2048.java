@@ -99,9 +99,6 @@ public class game2048 implements KeyListener{
 	    for(int i = 0; i < 4; i++) {
 	        for(int j = 0; j < 4; j++) {
 	            tiles[z].setValue(board[i][j]);
-	            if(a == i && j == b) {
-	                tiles[z].added();
-	            }
 	            z++;
 	        }
 	    }
