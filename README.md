@@ -31,4 +31,7 @@ This is a simple implementation of the classic 2048 game using Java Swing. The g
 ## Controls
 - **Arrow keys or WASD**: Move tiles in the respective direction (up, down, left, right).
 
+## ScreenShots
+![Screenshot 2024-11-09 130010](https://github.com/user-attachments/assets/3643bb76-1e12-4ee2-86b2-b98dc4065a50)
+![Screenshot 2024-11-09 130130](https://github.com/user-attachments/assets/e6b65b2e-8125-4c1e-ac4b-4c7bb46f4a73)
 
